@@ -23,9 +23,6 @@ Contributions are welcome! Feel free to fork the repository, make improvements, 
 ## Code of Conduct
 Please review our [Code of Conduct](link/to/code_of_conduct.md) to understand the expected behavior within the community.
 
-## License
-This project is licensed under the [MIT License](link/to/LICENSE).
-
 ## Get Started
 1. Clone the repository.
 2. Open the desired meditation page (Meadow, Trees, or Sea) in your browser.
