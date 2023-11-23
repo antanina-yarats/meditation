@@ -1,5 +1,8 @@
 # Meditation App
 
+[![Meditation App Screenshot]( <img class="projectImg" src="https://cdn.glitch.global/251bf5b8-819c-4ca6-904c-0d51b32dc0bf/2374024B-8C37-49B7-ABA9-0413BD8340D8_1_105_c.jpeg?v=1667774305865" alt="picture" >)](https://understood-able-jackal.glitch.me)
+
+
 Welcome to the Meditation App, where tranquility meets technology. Immerse yourself in the serenity of nature with three distinct meditations: Meadow, Trees, and Sea. Each meditation offers a beautiful video background, relaxing music, and a customizable timer to enhance your mindfulness experience.
 
 ## Features
